@@ -1,22 +1,78 @@
 aid: claros
 name: Claros
-description: Claros is a company surfaced as a portfolio company of general-catalyst and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Claros is a data center power delivery company reimagining how energy moves
+  from chip to grid for AI and high-performance computing infrastructure. Based
+  in Torrance, California with an office in McLean, Virginia, the company builds
+  two hardware-and-software product lines: an Integrated Voltage Regulator (IVR)
+  that targets the roughly 40 percent of chip power lost to heat at the point of
+  delivery, and a Power Gateway that manages broader data center power
+  distribution where 30 to 50 percent of power is lost to transmission,
+  conversion, and cooling. Claros is an early-stage hardware company backed by
+  General Catalyst and Red Cell Partners; its founding team collectively holds
+  286 patents and has brought more than 80 gigawatts of projects to market. As
+  of 2026 it is pre-product (prototypes in development, engineering samples
+  planned for 2026, low-volume production 2027, high-volume scale 2028) and
+  publishes no developer API, SDK, or public documentation surface yet — this
+  profile captures its public identity for the API Evangelist network.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://claros.tech/wp-content/uploads/2024/09/Claros-Wordmark-Mobile.png
 url: https://raw.githubusercontent.com/api-evangelist/claros/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - general-catalyst
+- red-cell-partners
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: pre-product-no-api
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Data Center
+- Power Management
+- Energy Efficiency
+- AI Infrastructure
+- Hardware
+- Semiconductors
+- Sustainability
 apis: []
+common:
+- type: DomainSecurity
+  url: security/claros-domain-security.yml
+- type: LLMsTxt
+  url: llms/claros-llms.txt
+- type: Website
+  url: https://claros.tech
+- type: About
+  url: https://claros.tech/about-us/
+- type: Blog
+  url: https://claros.tech/the-conduit/
+- type: Careers
+  url: https://claros.tech/careers/
+- type: Support
+  url: https://claros.tech/contact-us/
+- type: PrivacyPolicy
+  url: https://claros.tech/privacy/
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

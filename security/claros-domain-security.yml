@@ -1,0 +1,16 @@
+generated: '2026-07-18'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: claros.tech
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Oct  5 14:17:17 2026 GMT
+  hsts: false
+domains:
+- domain: claros.tech
+  dnssec: false
+  caa: []
+  spf: true
+  dmarc: true
+  dmarc_policy: reject

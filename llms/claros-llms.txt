@@ -1,0 +1,20 @@
+# Claros
+
+> Claros is a data center power delivery company reimagining how energy moves from chip to grid for AI and high-performance computing infrastructure. It builds an Integrated Voltage Regulator (IVR) for chip-level power delivery and a Power Gateway for data center power distribution. Early-stage hardware company (Torrance, CA / McLean, VA) backed by General Catalyst and Red Cell Partners. As of 2026 it is pre-product and publishes no developer API, SDK, or documentation surface.
+
+## Company
+- [Website](https://claros.tech): Company homepage — "Power Delivery, Evolved."
+- [About](https://claros.tech/about-us/): Mission, problem statement, and team
+- [Product](https://claros.tech/product/): Integrated Voltage Regulator (IVR) and Power Gateway
+- [Team](https://claros.tech/team/): Founding and engineering team
+- [Careers](https://claros.tech/careers/): Open roles
+
+## News
+- [The Conduit](https://claros.tech/the-conduit/): Company blog and news
+
+## Contact
+- [Contact Us](https://claros.tech/contact-us/): Support and inquiries
+- [Privacy Policy](https://claros.tech/privacy/): Privacy policy
+
+## Notes
+- No public API, OpenAPI, SDK, MCP server, or developer documentation is published as of 2026-07-18.
