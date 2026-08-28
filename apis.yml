@@ -15,6 +15,17 @@ description: >-
   planned for 2026, low-volume production 2027, high-volume scale 2028) and
   publishes no developer API, SDK, or public documentation surface yet — this
   profile captures its public identity for the API Evangelist network.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
