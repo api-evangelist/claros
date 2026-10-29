@@ -64,6 +64,49 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Claros is a company surfaced as a portfolio company of general-catalyst and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **No live API surface.** Nothing from this company could be reached the last time it was checked: the site is offline, parked or unreachable, or no public API was found. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: general-catalyst
+**Status:** pre-product-no-api
+
+Claros is a data center power delivery company reimagining how energy moves from chip to grid for AI and high-performance computing infrastructure. Based in Torrance, California with an office in McLean, Virginia, the company builds two hardware-and-software product lines: an Integrated Voltage Regulator (IVR) that targets the roughly 40 percent of chip power lost to heat at the point of delivery, and a Power Gateway that manages broader data center power distribution where 30 to 50 percent of power is lost to transmission, conversion, and cooling. Claros is an early-stage hardware company backed by General Catalyst and Red Cell Partners; its founding team collectively holds 286 patents and has brought more than 80 gigawatts of projects to market. As of 2026 it is pre-product (prototypes in development, engineering samples planned for 2026, low-volume production 2027, high-volume scale 2028) and publishes no developer API, SDK, or public documentation surface yet — this profile captures its public identity for the API Evangelist network.
+
+**Areas:** Company · Data Center · Power Management · Energy Efficiency · AI Infrastructure · Hardware · Semiconductors · Sustainability
+
+## Claros on APIs.io (historical record)
+
+Everything profiled for Claros is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/claros/](https://apis.io/providers/claros/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Claros Domain Security](https://apis.io/security/claros/claros-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://claros.tech)
+- [Support](https://claros.tech/contact-us/)
+- [Blog](https://claros.tech/the-conduit/)
+- [Privacy policy](https://claros.tech/privacy/)
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no live api surface, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Claros: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/claros/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
